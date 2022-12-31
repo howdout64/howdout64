@@ -6,5 +6,5 @@
 <h1 align="center">📚 Languages and Tools<h1 align="center">
 <img width="40" height="45" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img width="40" height="45" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img width="40" height="45" alt="gradle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
+<img width="40" height="45" alt="gradle" src="https://avatars.githubusercontent.com/u/124156?s=200&v=4">
 </h1>

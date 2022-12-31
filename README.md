@@ -5,5 +5,5 @@
   </p>
 <h1 align="center">📚 Languages and Tools<h1 align="center">
 <img width="40" height="45" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
-<img width="40" height="45" alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+<img width="40" height="45" alt="java" src="https://cdn-icons-png.flaticon.com/256/226/226777.png">
 </h1>

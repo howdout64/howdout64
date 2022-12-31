@@ -4,6 +4,6 @@
   <a href="https://web.telegram.org/z/#1352425216" target="blank"><img width="35" alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a>
   </p>
 <h1 align="center">📚 Languages and Tools<h1 align="center">
-<img width="40" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
+<img width="40" height="45" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
 <img width="40" height="40" alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </h1>
